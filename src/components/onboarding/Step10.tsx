@@ -1,4 +1,4 @@
-import { OnboardingData } from "@/app/onboarding/page";
+import { OnboardingData } from "@/types/onboarding";
 
 interface Step10Props {
   onNext: () => void;

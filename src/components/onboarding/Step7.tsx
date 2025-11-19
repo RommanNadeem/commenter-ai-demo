@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { OnboardingData } from "@/app/onboarding/page";
+import { OnboardingData } from "@/types/onboarding";
 
 interface Step7Props {
   onNext: () => void;
@@ -15,7 +15,7 @@ export default function OnboardingStep7({ onNext, data, updateData }: Step7Props
     e.preventDefault();
     const profiles = icpProfiles
       .split("\n")
-      .filter(p => p.trim())
+      .filter((p: string) => p.trim())
       .slice(0, 3);
     
     updateData({ 

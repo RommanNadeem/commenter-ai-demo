@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { OnboardingData } from "@/app/onboarding/page";
+import { OnboardingData } from "@/types/onboarding";
 
 interface Step4Props {
   onNext: () => void;
