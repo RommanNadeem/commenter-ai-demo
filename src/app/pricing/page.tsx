@@ -246,7 +246,7 @@ export default function PricingPage() {
           <h2>Turn Comments And DMs Into Pipeline You Can Measure</h2>
           <p>Try Commenter AI free for seven days. Upgrade only when you see your first attributed lead.</p>
           <Link className="btn btn-primary-hero" href="/onboarding">
-            Start 7 Day Trial
+            Get My First Lead
           </Link>
           <p className="cta-trust">All plans include comment → DM → pipeline attribution</p>
         </div>

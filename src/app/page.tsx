@@ -453,7 +453,7 @@ export default function HomePage() {
             <h2>Turn Your Next Week Of Comments And DMs Into Measurable Sales</h2>
             <p>Start a 7 day trial and see real leads appear in your sales from LinkedIn.</p>
             <Link className="btn btn-primary-hero" href="/onboarding">
-              Start 7 Day Trial
+              Get My First Lead
             </Link>
           </div>
         </div>

@@ -170,7 +170,7 @@ export default function ProductPage() {
             </p>
             <div className="hero-ctas">
               <Link className="btn btn-primary-hero" href="/onboarding">
-                Start 7 Day Trial
+                Get My First Lead
               </Link>
               <Link className="btn btn-secondary-hero" href="/pricing">
                 View Pricing
@@ -635,7 +635,7 @@ export default function ProductPage() {
               <li>AI tips generated from your own data, not dummy examples</li>
             </ul>
             <Link className="btn btn-primary-hero" href="/onboarding">
-              Start 7 Day Trial
+              Get My First Lead
             </Link>
           </div>
         </div>
@@ -656,7 +656,7 @@ export default function ProductPage() {
           <h2>Ready to see comment → DM → pipeline in action?</h2>
           <p>Launch your 7 day trial and create your first attributed lead.</p>
           <Link className="btn btn-primary-hero" href="/onboarding">
-            Start 7 Day Trial
+            Get My First Lead
           </Link>
           <p className="cta-trust">No credit card required · Full loop access · Cancel anytime</p>
         </div>

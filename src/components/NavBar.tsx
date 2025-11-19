@@ -42,7 +42,7 @@ export const NavBar = () => {
             Login
           </Link>
           <Link className="btn btn-primary" href="/onboarding">
-            Start 7 Day Trial
+            Get My First Lead
           </Link>
         </div>
       </div>
